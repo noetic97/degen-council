@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/degen-council/static/css/main.95e42815.css",
+    "main.js": "/degen-council/static/js/main.f1eed7c1.js",
+    "static/js/433.7d347fa8.chunk.js": "/degen-council/static/js/433.7d347fa8.chunk.js",
+    "static/media/degenCouncil.gif": "/degen-council/static/media/degenCouncil.32f7dafcf1a5ed68b617.gif",
+    "index.html": "/degen-council/index.html",
+    "main.95e42815.css.map": "/degen-council/static/css/main.95e42815.css.map",
+    "main.f1eed7c1.js.map": "/degen-council/static/js/main.f1eed7c1.js.map",
+    "433.7d347fa8.chunk.js.map": "/degen-council/static/js/433.7d347fa8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95e42815.css",
+    "static/js/main.f1eed7c1.js"
+  ]
+}
